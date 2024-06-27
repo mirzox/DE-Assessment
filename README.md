@@ -8,6 +8,6 @@ to run the python assessment files, you can run the following command in the ter
 ```
 pip install -r requirements.txt
 
-juptyer notebook
+jupyter notebook
 ```
 and then navigate to the python_assessment folder and open the features.ipynb file
